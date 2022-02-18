@@ -30,7 +30,5 @@ This project utilized six machine learning models applied to credit risk, an inh
 <img width="716" alt="Screen Shot 2022-02-18 at 1 31 17 PM" src="https://user-images.githubusercontent.com/91562577/154741837-c3b263c8-84da-4d95-860c-98b2fe134f3c.png">
 
 
-
-
 ## Summary
-
+This project utilized six different algorithms for predicting credit risk, and all six were hampered by the severe imbalance between the number of good loans and the number of risky ones. This is demonstrated by the very low precision scores for identifying high risk loans across all models. The Cluster Centroids approach fared the worst of the six, and the two ensemble approaches scored the best. The Easy Ensemble AdaBoost Classifier is the obvious choice when making a recommendation among these models given the dataset, as it performed most effectively overall.
