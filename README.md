@@ -1,7 +1,7 @@
 # Supervised Machine Learning and Credit Risk Analysis
 
 ## Overview
-This project utilized six machine learning models applied to credit risk, an inherently unbalanced classification problem that requires differentiating large numbers of good loans from a much smaller number of risky loans.
+This project utilized six machine learning models applied to credit risk, an inherently unbalanced classification problem that requires differentiating large numbers of good loans from a much smaller number of risky loans. The data is drawn from LendingClub, a P2P lending service company, which demonstrates a typical imbalance in classes of loans. Although this problem cannot be overcome completely, these algorithms each provide some benefit in their distinct manners of resampling the data.
 
 ## Results
 
