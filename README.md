@@ -5,7 +5,7 @@ This project utilized six machine learning models applied to credit risk, an inh
 
 ## Results
 
-* Naive Random Oversampling: This algorthm produced a balanced accuracy score of 66%, with precision of 99% and recall of 60%.
+* Naive Random Oversampling: This algorithm produced a balanced accuracy score of 66%, with precision of 99% and recall of 60%.
 
 <img width="708" alt="Screen Shot 2022-02-18 at 1 26 15 PM" src="https://user-images.githubusercontent.com/91562577/154741143-819e0db2-fc78-4018-b854-bac6d250c81a.png">
 
